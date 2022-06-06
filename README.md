@@ -1,5 +1,5 @@
 # My Dissertation
-## Author: Katia Bulekova
+## Authors: Katia Bulekova, Robert Brown
 ## Boston University
 
 Description of my dissertation.
