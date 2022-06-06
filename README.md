@@ -1,5 +1,5 @@
 # My Dissertation
-## Authors: Katia Bulekova, Robert Brown
+## Authors: Katia Bulekova, Mozart, Ludvig Van Bethoven, Robert Brown
 ## Boston University
 ### Research Computing 
 
