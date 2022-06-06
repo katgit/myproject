@@ -1,7 +1,8 @@
 # My Dissertation
-## Authors: Katia Bulekova, Mozart, Ludvig Van Bethoven, Robert Brown
+
+## Authors: Robert Brown, Katia Bulekova
 ## Boston University
 ### Research Computing 
 
 Description of my dissertation.
-My PI is Wayne Gilmore
+My LPI is Wayne Gilmore
